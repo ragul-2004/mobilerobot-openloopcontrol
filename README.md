@@ -57,7 +57,6 @@ ep_chassis.drive_speed(x=0.5,y=0,z=90)
 
 Insert image here
 ![](mb1.jpeg)
-![](mb2.jpeg)
 <br/>
 
 ## MobileRobot Movement Video:
