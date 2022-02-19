@@ -8,28 +8,21 @@ To develop a python control code to move the mobilerobot along the predefined pa
 2. Python 3.7
 
 ## Procedure
-
 Step1:
-
 Initiate the MobileRobot.
 <br/>
-
 Step2:
 Connect your PC with the MobileRobot.
 <br/>
-
 Step3:
 Open Python program.
 <br/>
-
 Step4:
 Program the movements of the robot using python code.
 <br/>
-
 Step5:
 Execute the python program.
 <br/>
-
 ## Program
 ```python
 from robomaster import robot
@@ -63,25 +56,13 @@ ep_chassis.drive_speed(x=0.5,y=0,z=90)
 ![robo](./img/robomaster.png)
 
 Insert image here
-
-
-
 ![](mb1.jpeg)
 ![](mb2.jpeg)
-<br/>
-<br/>
 <br/>
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
-
 (https://youtube.com/shorts/9dcQktqUM0o?feature=share]
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
